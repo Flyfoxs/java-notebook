@@ -10,11 +10,12 @@ docker run -dt -p 8888:8888  --name java_notebook \
             -e  TZ=Asia/Shanghai \
             jbindinga/java-notebook
 
-
-docker exec -it -u root  java_notebook bash
-
 ```
 
+# Jupyter notebook
+Link:  http://localhost:8888
+
+Password: felix.lilao
 
 # Ref
 https://github.com/jbindinga/java-notebook
