@@ -1,0 +1,5 @@
+.history
+.ipynb_checkpoints
+.local
+*.swp
+.DS_Store
