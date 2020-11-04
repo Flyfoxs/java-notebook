@@ -1,5 +1,6 @@
-
 # Usage
+
+* 开启容器
 
 ```
 docker run -dt -p 8888:8888 -p 7000-7005:7000-7005 --name java_notebook \
@@ -12,12 +13,21 @@ docker run -dt -p 8888:8888 -p 7000-7005:7000-7005 --name java_notebook \
 
 ```
 
-# Jupyter notebook
-Link:  http://localhost:8888
+* 访问 Jupyter notebook
+Link:  http://localhost:8888,  Password: felix.lilao
 
-Password: felix.lilao
+
+
+
+# Java Example
+[单例](./notebook/singleton.ipynb)
+[Spring book(Hello world)](./notebook/springboot_tomcat.ipynb)
+[Stream (Hello world)](./notebook/stream.ipynb)
+
+
 
 # Ref
+
 https://github.com/jbindinga/java-notebook
 
 https://github.com/SpencerPark/IJava
