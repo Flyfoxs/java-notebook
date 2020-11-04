@@ -20,9 +20,9 @@ Link:  http://localhost:8888,  Password: felix.lilao
 
 
 # Java Example
-[单例](./notebook/singleton.ipynb)
-[Spring book(Hello world)](./notebook/springboot_tomcat.ipynb)
-[Stream (Hello world)](./notebook/stream.ipynb)
+* [单例](./notebook/singleton.ipynb)
+* [Spring book(Hello world)](./notebook/springboot_tomcat.ipynb)
+* [Stream (Hello world)](./notebook/stream.ipynb)
 
 
 
