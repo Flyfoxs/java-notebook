@@ -24,6 +24,7 @@ Link:  http://localhost:8888,  Password: felix.lilao
 * [Spring book(Hello world)](./notebook/springboot_tomcat.ipynb)
 * [Stream (Hello world)](./notebook/stream.ipynb)
 * [Spring 配置文件优先级](./notebook/springboot_conf_priority.ipynb)
+* [垃圾回收-弱引用](./notebook/weakReference.ipynb)
 
 
 
