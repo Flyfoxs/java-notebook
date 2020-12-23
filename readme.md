@@ -3,6 +3,8 @@
 * 开启容器
 
 ```
+git clone git@github.com:Flyfoxs/java-notebook.git
+cd java-notebook
 docker run -dt -p 8888:8888 -p 7000-7005:7000-7005 --name java_notebook \
             --volume=$(pwd)/notebook:/home/jovyan/notebook \
             --volume=$(pwd)/.jupyter:/home/jovyan/.jupyter \
