@@ -3,3 +3,5 @@
 .local
 *.swp
 .DS_Store
+.idea
+notebook/Untitled.ipynb

@@ -11,6 +11,7 @@ docker run -dt -p 8888:8888 -p 7000-7005:7000-7005 --name java_notebook \
             --volume=${HOME}/.m2:/home/jovyan/.m2 \
             --volume=${HOME}/.ivy2:/home/jovyan/.ivy2 \
             -e  TZ=Asia/Shanghai \
+            --restart always \
             jbindinga/java-notebook
 
 ```
